@@ -1,10 +1,10 @@
 name: CRUtilities
-version: 0.0.2
+version: 0.0.3
 main: com.calverin.crutils.CRUtils
 description: A plugin with utlity stuff for Command Realm
 author: Calverin
 website: https://calverin.com
-api-version: '1.20'
+api-version: '1.21.5'
 commands:
    see:
       description: Toggles night vision for the executing player
